@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning coding
 - 👯 I’m looking to collaborate on  your project
 - 🤔 I’m looking for help with  on study
-- 💬 Ask me about ### technical issued
+- 💬 Ask me about technical issued
 - 📫 How to reach me:  SocialMedia (myselfrakeshrai)
