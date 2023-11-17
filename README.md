@@ -7,4 +7,4 @@
 - 💬 Ask me about technical issued
 - 📫 How to reach me:  SocialMedia (myselfrakeshrai)
 # Finish what you start
-# Don't wait for your time Just start it from today
+Don't wait for your time Just start it from today
