@@ -276,23 +276,28 @@ Ask me about **React, Vue, PHP, Java and Flutter** - 📫 How to reach me
 <p>
   <img
     align="left"
+    width="39%"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=myselfrakeshrai&show_icons=true&locale=en&layout=compact"
     alt="myselfrakeshrai"
   />
 </p>
+<p>
+    <img
+      margin-bottom="5px"
+      width="54%"  
+      align="right"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=myselfrakeshrai&"
+      alt="myselfrakeshrai"
+    />
+  </p>
 
 <p>
-  &nbsp;<img
+  &nbsp;<img 
+    width="100%"      
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=myselfrakeshrai&show_icons=true&locale=en"
     alt="myselfrakeshrai"
   />
 </p>
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=myselfrakeshrai&"
-    alt="myselfrakeshrai"
-  />
-</p>
+
