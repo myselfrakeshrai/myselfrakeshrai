@@ -1,20 +1,5 @@
-<h1 align="Left">Hi 👋, I'm Rakesh Rai</h1>
+<h1 align="Left">Hi 👋, I'm Rakesh Rai </h1>
 <h3 align="Left">A passionate developer from Nepal</h3>
-<p align="Left">
-  <img
-    src="https://komarev.com/ghpvc/?username=myselfrakeshrai&label=Profile%20views&color=ff0000&style=flat"
-    alt="myselfrakeshrai"
-  />
-</p>
-
-<p align="left">
-  <a href="https://github.com/myselfrakeshrai"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=myselfrakeshrai"
-      alt="myselfrakeshrai"
-  /></a>
-</p>
-
 <p align="left">
   <a href="https://twitter.com/myselfrakeshrai" target="blank"
     ><img
@@ -28,7 +13,8 @@
 - 👯 I’m looking to collaborate on [Prayers(Projects)](https://github.com/myselfrakeshrai/Prayers)
 - 🤝 I’m looking for help with [Prayers (Projects)](https://github.com/myselfrakeshrai/Prayers)
 - 💬 Ask me about **React, Vue, PHP, Java and Flutter**
-- 📫 How to reach me **myselfrakeshrai@gmail.com** 
+- 📫 How to reach me **myselfrakeshrai@gmail.com**
+<hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://codepen.io/myselfrakeshrai" target="blank"
@@ -83,18 +69,48 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5"
       width="40"
       height="40"
     />
   </a>
+  
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
       alt="css3"
+      width="40"
+      height="40"
+    />
+  </a>
+
+ <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://camo.githubusercontent.com/2512b49c89512f2ff3718f7257f48ed5c46a4e331abbd890b6c5e8c0e458434f/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67"
+      alt="bootstrap"
+      width="40"
+      height="40"
+    />
+  </a>   
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+      alt="laravel"
       width="40"
       height="40"
     />
@@ -119,34 +135,6 @@
     <img
       src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
       alt="flutter"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
-      alt="laravel"
       width="40"
       height="40"
     />
@@ -273,7 +261,7 @@
   <img
     align="left"
     width="39%"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=myselfrakeshrai&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=myselfrakeshrai&show_icons=true&locale=en&layout=compact&theme=dark&background=000000"
     alt="myselfrakeshrai"
   />
 </p>
@@ -282,7 +270,7 @@
       margin-bottom="5px"
       width="54%"  
       align="right"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=myselfrakeshrai&"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=myselfrakeshrai&theme=dark&background=000000"
       alt="myselfrakeshrai"
     />
   </p>
