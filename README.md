@@ -24,12 +24,12 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on [Cyberros](https://cyberros.com.np) - 🌱 I’m
-currently learning **MERN** - 👯 I’m looking to collaborate on [Prayers
-(Projects)](https://github.com/myselfrakeshrai/Prayers) - 🤝 I’m looking for
-help with [Prayers (Projects)](https://github.com/myselfrakeshrai/Prayers) - 💬
-Ask me about **React, Vue, PHP, Java and Flutter** - 📫 How to reach me
-**myselfrakeshrai@gmail.com** ### Blogs posts
+- 🔭 I’m currently working on [Cyberros](https://cyberros.com.np)
+- 🌱 I’m currently learning **MERN**
+- 👯 I’m looking to collaborate on [Prayers(Projects)](https://github.com/myselfrakeshrai/Prayers)
+- 🤝 I’m looking for help with [Prayers (Projects)](https://github.com/myselfrakeshrai/Prayers)
+- 💬 Ask me about **React, Vue, PHP, Java and Flutter**
+- 📫 How to reach me **myselfrakeshrai@gmail.com** ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
