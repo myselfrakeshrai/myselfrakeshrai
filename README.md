@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rakesh Rai</h1>
-<h3 align="center">A passionate developer from Nepal</h3>
+<h1 align="Left">Hi 👋, I'm Rakesh Rai</h1>
+<h3 align="Left">A passionate developer from Nepal</h3>
 
-<p align="left">
+<p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=myselfrakeshrai&label=Profile%20views&color=0e75b6&style=flat"
     alt="myselfrakeshrai"
@@ -29,10 +29,7 @@
 - 👯 I’m looking to collaborate on [Prayers(Projects)](https://github.com/myselfrakeshrai/Prayers)
 - 🤝 I’m looking for help with [Prayers (Projects)](https://github.com/myselfrakeshrai/Prayers)
 - 💬 Ask me about **React, Vue, PHP, Java and Flutter**
-- 📫 How to reach me **myselfrakeshrai@gmail.com** ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
+- 📫 How to reach me **myselfrakeshrai@gmail.com** 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://codepen.io/myselfrakeshrai" target="blank"
