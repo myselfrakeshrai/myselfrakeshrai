@@ -1,7 +1,5 @@
-<h1 align="Left">Hi 👋, I'm Rakesh Rai</h1>
+<h1 align="Left">Hi 👋, I'm $${\color{red}Red}$$ Rakesh Rai</h1>
 <h3 align="Left">A passionate developer from Nepal</h3>
-<p style="background-color:Tomato;"> Hello there</p>
-
 <p align="Left">
   <img
     src="https://komarev.com/ghpvc/?username=myselfrakeshrai&label=Profile%20views&color=ff0000&style=flat"
