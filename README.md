@@ -291,8 +291,8 @@ Ask me about **React, Vue, PHP, Java and Flutter** - 📫 How to reach me
     />
   </p>
 
-<p>
-  &nbsp;<img 
+<p style="margin-top: 5px;">
+  &nbsp;<img      
     width="100%"      
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=myselfrakeshrai&show_icons=true&locale=en"
