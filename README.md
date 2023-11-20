@@ -1,9 +1,9 @@
 <h1 align="Left">Hi 👋, I'm Rakesh Rai</h1>
 <h3 align="Left">A passionate developer from Nepal</h3>
 
-<p align="center">
+<p align="Left">
   <img
-    src="https://komarev.com/ghpvc/?username=myselfrakeshrai&label=Profile%20views&color=0e75b6&style=flat"
+    src="https://komarev.com/ghpvc/?username=myselfrakeshrai&label=Profile%20views&color=ff0000&style=flat"
     alt="myselfrakeshrai"
   />
 </p>
