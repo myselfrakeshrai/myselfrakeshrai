@@ -1,4 +1,4 @@
-<h1 align="Left">Hi 👋, I'm $${\color{red}Red}$$ Rakesh Rai</h1>
+<h1 align="Left">Hi 👋, I'm $${\color{red}Rakesh Rai}$$</h1>
 <h3 align="Left">A passionate developer from Nepal</h3>
 <p align="Left">
   <img
