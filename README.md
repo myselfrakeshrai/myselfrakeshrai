@@ -1,5 +1,5 @@
 <h1 align="Left">Hi 👋, I'm Rakesh Rai </h1>
-<h3 align="Left">A passionate developer from Nepal</h3>
+<h3 align="Left">A Passionate Developer From Nepal</h3>
 <p align="left">
   <a href="https://twitter.com/myselfrakeshrai" target="blank"
     ><img
