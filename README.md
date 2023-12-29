@@ -9,7 +9,7 @@
 </p>
 
 - 🔭 I’m currently working on [Cyberros](https://cyberros.com.np)
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Coding**
 - 👯 I’m looking to collaborate on [Prayers(Projects)](https://github.com/myselfrakeshrai/Prayers)
 - 🤝 I’m looking for help with [Prayers (Projects)](https://github.com/myselfrakeshrai/Prayers)
 - 💬 Ask me about **React, Vue, Node, PHP, Java and Flutter**
