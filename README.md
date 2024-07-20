@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Coding** **&** **Designing**
 - 👯 I’m looking to collaborate on [Prayers(Projects)](https://github.com/myselfrakeshrai/Prayers)
 - 🤝 I’m looking for help with [Prayers (Projects)](https://github.com/myselfrakeshrai/Prayers)
-- 💬 Ask me about **React, Vue, Node, PHP, Java and Flutter**
+- 💬 Ask me about **React, Vue, Node, PHP, Laravel, Java and Flutter**
 - 📫 How to reach me **myselfrakeshrai@gmail.com**
 <hr/>
 <h3 align="left">Connect with me:</h3>
