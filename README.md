@@ -6,7 +6,7 @@
       src="https://img.shields.io/twitter/follow/myselfrakeshrai?logo=twitter&style=for-the-badge"
       alt="myselfrakeshrai"
   /></a>
-  <a mailto="myselfrakeshrai@gmail.com" target="blank"
+  <a href="mailto:myselfrakeshrai@gmail.com" target="blank"
     ><img
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       alt="myselfrakeshrai"
