@@ -13,6 +13,19 @@
   /></a>
 </p>
 
+<p align="left">
+  <a href="https://twitter.com/myselfrakeshrai" target="blank"
+    ><img
+      src="https://img.shields.io/twitter/follow/myselfrakeshrai?logo=twitter&style=for-the-badge"
+      alt="myselfrakeshrai"
+  /></a>
+  <a href="mailto:myselfrakeshrai@gmail.com" target="blank"
+    ><img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="myselfrakeshrai"
+  /></a>
+</p>
+
 - 🔭 I’m currently working on [Cyberros](https://cyberros.com.np)
 - 🌱 I’m currently learning **Coding** **&** **Designing**
 - 👯 I’m looking to collaborate on [Prayers(Projects)](https://github.com/myselfrakeshrai/Prayers)
