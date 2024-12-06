@@ -13,7 +13,6 @@
       alt="myselfrakeshrai"
   /></a>
 </p>
-</div>
 <p align="right">
   <a href="https://twitter.com/myselfrakeshrai" target="blank"
     ><img
@@ -26,6 +25,8 @@
       alt="myselfrakeshrai"
   /></a>
 </p>
+
+</div>
 
 - 🔭 I’m currently working on [Cyberros](https://cyberros.com.np)
 - 🌱 I’m currently learning **Coding** **&** **Designing**
