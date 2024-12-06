@@ -1,6 +1,5 @@
 <h1 align="Left">Hi 👋, I'm Rakesh Rai </h1>
 <h3 align="Left">A Passionate Developer From Nepal</h3>
-<div style="display: flex;justify-content: space-between;">
 <p align="left">
   <a href="https://twitter.com/myselfrakeshrai" target="blank"
     ><img
@@ -13,20 +12,6 @@
       alt="myselfrakeshrai"
   /></a>
 </p>
-<p align="right">
-  <a href="https://twitter.com/myselfrakeshrai" target="blank"
-    ><img
-      src="https://img.shields.io/twitter/follow/myselfrakeshrai?logo=twitter&style=for-the-badge"
-      alt="myselfrakeshrai"
-  /></a>
-  <a href="mailto:myselfrakeshrai@gmail.com" target="blank"
-    ><img
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="myselfrakeshrai"
-  /></a>
-</p>
-
-</div>
 
 - 🔭 I’m currently working on [Cyberros](https://cyberros.com.np)
 - 🌱 I’m currently learning **Coding** **&** **Designing**
