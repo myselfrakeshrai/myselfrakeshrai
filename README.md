@@ -1,6 +1,6 @@
 <h1 align="Left">Hi 👋, I'm Rakesh Rai </h1>
 <h3 align="Left">A Passionate Developer From Nepal</h3>
-<div>
+<div style="display: flex;justify-content: space-between;">
 <p align="left">
   <a href="https://twitter.com/myselfrakeshrai" target="blank"
     ><img
