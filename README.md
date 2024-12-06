@@ -13,7 +13,7 @@
   /></a>
 </p>
 
-<p align="left">
+<p align="right">
   <a href="https://twitter.com/myselfrakeshrai" target="blank"
     ><img
       src="https://img.shields.io/twitter/follow/myselfrakeshrai?logo=twitter&style=for-the-badge"
