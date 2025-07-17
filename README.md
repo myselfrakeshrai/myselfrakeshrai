@@ -12,16 +12,22 @@
       alt="myselfrakeshrai"
   /></a>
 </p>
-- 🔭 I’m currently working on [Cyberros](https://cyberros.com.np) & [W3 web Technology](https://w3web.co.uk)
-- 🌱 I’m currently learning **Coding** **&** **Designing**
-- 👯 I’m looking to collaborate on [Prayers(Projects)](https://github.com/myselfrakeshrai/Prayers)
-- 🤝 I’m looking for help with [Prayers (Projects)](https://github.com/myselfrakeshrai/Prayers)
-- 💬 Ask me about **React, Vue, Node, PHP, Laravel, Java and Flutter**
-- 📫 How to reach me **myselfrakeshrai@gmail.com**
-
-<p align="right">
-<img src="https://onlinegiftools.com/images/examples-onlinegiftools/jump-hello-transparent.gif"/>
-</p>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <!-- Left Side: Details -->
+  <div style="flex: 1; padding-right: 20px;">
+    <p>- 🔭 I’m currently working on <a href="https://cyberros.com.np">Cyberros</a> & <a href="https://w3web.co.uk">W3 web Technology</a></p>
+    <p>- 🌱 I’m currently learning <strong>Coding</strong> & <strong>Designing</strong></p>
+    <p>- 👯 I’m looking to collaborate on <a href="https://github.com/myselfrakeshrai/Prayers">Prayers(Projects)</a></p>
+    <p>- 🤝 I’m looking for help with <a href="https://github.com/myselfrakeshrai/Prayers">Prayers (Projects)</a></p>
+    <p>- 💬 Ask me about <strong>React, Vue, Node, PHP, Laravel, Java, and Flutter</strong></p>
+    <p>- 📫 How to reach me: <strong>myselfrakeshrai@gmail.com</strong></p>
+  </div>
+  
+  <!-- Right Side: GIF -->
+  <div style="flex: 1;">
+    <img src="https://onlinegiftools.com/images/examples-onlinegiftools/jump-hello-transparent.gif" />
+  </div>
+</div>
 <hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
