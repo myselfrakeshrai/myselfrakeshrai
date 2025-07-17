@@ -12,15 +12,16 @@
       alt="myselfrakeshrai"
   /></a>
 </p>
-<p align="right">
-<img src="https://onlinegiftools.com/images/examples-onlinegiftools/jump-hello-transparent.gif"/>
-</p>
 - 🔭 I’m currently working on [Cyberros](https://cyberros.com.np) & [W3 web Technology](https://w3web.co.uk)
 - 🌱 I’m currently learning **Coding** **&** **Designing**
 - 👯 I’m looking to collaborate on [Prayers(Projects)](https://github.com/myselfrakeshrai/Prayers)
 - 🤝 I’m looking for help with [Prayers (Projects)](https://github.com/myselfrakeshrai/Prayers)
 - 💬 Ask me about **React, Vue, Node, PHP, Laravel, Java and Flutter**
 - 📫 How to reach me **myselfrakeshrai@gmail.com**
+
+<p align="right">
+<img src="https://onlinegiftools.com/images/examples-onlinegiftools/jump-hello-transparent.gif"/>
+</p>
 <hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
