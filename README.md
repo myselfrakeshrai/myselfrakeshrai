@@ -12,7 +12,9 @@
       alt="myselfrakeshrai"
   /></a>
 </p>
-
+<p align="right">
+<img src="https://onlinegiftools.com/images/examples-onlinegiftools/jump-hello-transparent.gif"/>
+</p>
 - 🔭 I’m currently working on [Cyberros](https://cyberros.com.np) & [W3 web Technology](https://w3web.co.uk)
 - 🌱 I’m currently learning **Coding** **&** **Designing**
 - 👯 I’m looking to collaborate on [Prayers(Projects)](https://github.com/myselfrakeshrai/Prayers)
