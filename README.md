@@ -2,7 +2,7 @@
 <h3 align="Left">A Passionate Developer From Nepal</h3>
 <p>
   <div align="center">
-<img src="https://i.imgur.com/SaDB4ub.png" align="right">
+<img src="https://i.imgur.com/Uk0krf0.png" align="right">
   </div>
 </div>
 <div>
