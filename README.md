@@ -2,7 +2,7 @@
 <h3 align="Left">A Passionate Developer From Nepal</h3>
 <p>
   <div align="center">
-<img src="https://onlinegiftools.com/images/examples-onlinegiftools/jump-hello-transparent.gif" align="right">
+<img src="https://i.imgur.com/O56xqJN.png" align="right">
   </div>
 </div>
 <div>
