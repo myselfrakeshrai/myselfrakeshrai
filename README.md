@@ -21,7 +21,7 @@
   /></a>
   <br><br>
     <p>- 🔭 I’m currently working on <a href="https://cyberros.com.np">Cyberros</a> & <a href="https://w3web.co.uk">W3 Web Technology</a></p>
-    <p>- 🌱 I’m currently learning <strong>Coding</strong> & <strong>Designing</strong></p>
+    <p>- 🌱 I’m currently learning <strong>Coding, </strong><strong>analyzing</strong> & <strong>Designing</strong></p>
     <p>- 👯 I’m looking to collaborate on <a href="https://github.com/myselfrakeshrai/Prayers">Prayers(Projects)</a></p>
     <p>- 🤝 I’m looking for help with <a href="https://github.com/myselfrakeshrai/Prayers">Prayers (Projects)</a></p>
     <p>- 💬 Ask me about <strong>React, Vue, Node, PHP, Laravel, Java, and Flutter</strong></p>
