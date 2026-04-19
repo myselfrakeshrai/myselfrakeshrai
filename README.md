@@ -30,57 +30,6 @@
 </p>
 <br>
 <hr/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://codepen.io/myselfrakeshrai" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-      alt="myselfrakeshrai"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://dev.to/myselfrakeshrai" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
-      alt="myselfrakeshrai"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://twitter.com/myselfrakeshrai" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="myselfrakeshrai"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://linkedin.com/in/myselfrakeshrai" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="myselfrakeshrai"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://fb.com/myselfrakeshrai" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="myselfrakeshrai"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://instagram.com/myselfrakeshrai" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="myselfrakeshrai"
-      height="30"
-      width="40"
-  /></a>
-</p>
 <p>
   <img
     align="left"
