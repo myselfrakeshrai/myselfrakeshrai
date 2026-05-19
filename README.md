@@ -77,16 +77,6 @@
 <img width="48%" src="https://streak-stats.demolab.com?user=myselfrakeshrai&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=myselfrakeshrai&theme=github_dark" alt="Repos Per Language" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=myselfrakeshrai&theme=github_dark" alt="Most Commit Language" />
-</p>
-
-<p align="center">
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=myselfrakeshrai&theme=github_dark" alt="GitHub Stats" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=myselfrakeshrai&theme=github_dark&utcOffset=5.75" alt="Productive Time" />
-</p>
-
 <br />
 
 <p align="center">
