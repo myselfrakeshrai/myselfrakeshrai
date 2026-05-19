@@ -27,6 +27,14 @@
 <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<br />
+<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+<br />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Networking-0078D4.svg?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
 <p align="left">
@@ -48,9 +56,11 @@
 
 <p>- 🤝 I’m looking for help with <a href="https://github.com/myselfrakeshrai/Prayers">Prayers Projects</a></p>
 
-<p>- 💬 Ask me about <strong>React, React Native, Vue, Node.js, PHP, Laravel, Java, Flutter</strong></p>
+<p>- 💬 Ask me about <strong>React, React Native, Vue, Node.js, PHP, Laravel, Java, Flutter, Python, Rust, C, C++, C#</strong></p>
 
 <p>- 📱 I also build mobile apps using <strong>React Native</strong> and <strong>Flutter</strong></p>
+
+<p>- 🌐 I also have knowledge of <strong>Networking</strong> and system fundamentals</p>
 
 <p>- 📫 How to reach me: <strong>myselfrakeshrai@gmail.com</strong></p>
 
@@ -64,9 +74,12 @@
 <strong>Frontend:</strong> HTML, CSS, JavaScript, TypeScript, React, Vue.js <br />
 <strong>Mobile App:</strong> React Native, Flutter, Dart <br />
 <strong>Backend:</strong> Node.js, PHP, Laravel, Java <br />
+<strong>Programming Languages:</strong> Python, Rust, C, C++, C# <br />
+<strong>Networking:</strong> Computer Networking, Network Basics, System Fundamentals <br />
 <strong>Tools:</strong> Git, GitHub, VS Code, Adobe Photoshop <br />
 <strong>Currently Improving:</strong> Coding, Analyzing, Designing, System Thinking
 </p>
+
 <br />
 
 <hr />
